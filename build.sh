@@ -1,0 +1,1 @@
+dotnet restore ./TodoAPI.csproj
